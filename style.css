@@ -115,7 +115,7 @@ hr{
 
 .bottom-container{
   height: 100px;
-  margin-top: 100px;
+  margin-top: 0px;
   width: 1350px;
   background: rgb(34,31,31);
   padding-bottom: 60px;
