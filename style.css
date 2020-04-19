@@ -23,6 +23,7 @@ div{
   }
 
 .headings{
+  width: 1350px;
   padding-top: 20px;
   background: rgb(34,31,31);
   }
@@ -49,6 +50,7 @@ h3{
 }
 
 body{
+  width: 1350px;
   top: 0px;
   text-align: center;
   margin-top: 0px;
@@ -57,29 +59,8 @@ body{
   font-family: 'Merriweather', serif;
 }
 
-
-.mountain{
-  position: relative;
-  margin-top: 0px;
-  top: 0px;
-  background-color: powderblue;
-  width: 100%;
-}
-
 .top{
 padding-top: 0px;
-}
-
-.intro{
-    width: 40%;
-    margin: 0 auto 20px auto;
-}
-
-.photo{
-  border-radius: 50%;
-  height: 200px;
-  width: 180px;
-  margin-top: 30px;
 }
 
 .skill{
@@ -120,37 +101,6 @@ hr{
   border-color: grey;
   border-width: 5px;
   width: 30%
-}
-
-.butn {
-  background: #2495e0;
-  background-image: -webkit-linear-gradient(top, #2495e0, #2980b9);
-  background-image: -moz-linear-gradient(top, #2495e0, #2980b9);
-  background-image: -ms-linear-gradient(top, #2495e0, #2980b9);
-  background-image: -o-linear-gradient(top, #2495e0, #2980b9);
-  background-image: linear-gradient(to bottom, #2495e0, #2980b9);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: 'Merriweather', serif;
-  color: #ffffff;
-  font-size: 20px;
-  padding: 5px 10px 5px 10px;
-  text-decoration: none;
-}
-
-.butn:hover {
-  background: #3cb0fd;
-  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
-  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
-  text-decoration: none;
-}
-
-.contact-me{
-  margin-bottom: 30px;
 }
 
 .bottom-container{
