@@ -154,7 +154,7 @@ hr{
 }
 
 .bottom-container{
-  margin: 0 auto 20px auto;
+  width: 1350px;
   background: rgb(34,31,31);
   padding-bottom: 10px;
   padding-top: 10px;
