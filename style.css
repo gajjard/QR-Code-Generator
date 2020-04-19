@@ -105,10 +105,12 @@ hr{
 }
 
 .bottom-container{
+  height: 100px;
+  
   width: 1350px;
   background: rgb(34,31,31);
-  padding-bottom: 10px;
-  padding-top: 10px;
+  padding-bottom: 60px;
+  padding-top: 30px;
 }
 .footer-link{
 font-size: 18px;
