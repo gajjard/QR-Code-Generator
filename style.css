@@ -8,12 +8,11 @@ div{
   line-height: 1.5;
 }
 .hero{
-  text-align: center;
   width: 1350px;
   background: rgb(221,221,221);
   height: 950px;
 }
-.container {3
+.container {
   text-align: center;
   color: black;
   background-color: white;
